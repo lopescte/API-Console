@@ -1,0 +1,24 @@
+{
+    "name": "marcelo/api-console",
+    "description": "API de Console",
+    "type": "library",
+    "require": {
+        "php": "^7.4|^8.0"
+    },
+    "require-dev": {
+        "php": "^7.0|^8.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Marcelo\\ApiConsole\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marcelo Lopes",
+            "email": "lopes.cte@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
