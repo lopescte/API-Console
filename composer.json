@@ -1,5 +1,5 @@
 {
-    "name": "marcelo/api-console",
+    "name": "lopescte/api-console",
     "description": "API de Console",
     "type": "library",
     "require": {
@@ -11,7 +11,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Marcelo\\ApiConsole\\": "src/"
+            "Lopescte\\ApiConsole\\": "src/"
         }
     },
     "authors": [
